@@ -4,8 +4,7 @@ layout: default
 
 
 
-[Link to another page](.www.linkedin.com/in/jake-thorpe-44774324a/).
-
+<a href="https://www.linkedin.com/in/jake-thorpe-44774324a/">Jacob's LinkedIn Profile</a>
 
 # *Jacob Thorpe's Portfolio*
 Hello! Thank you for visiting my portfolio page!
