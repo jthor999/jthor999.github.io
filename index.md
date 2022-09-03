@@ -2,15 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./https://www.linkedin.com/in/jake-thorpe-44774324a/).
 
-There should be whitespace between paragraphs.
+[Link to another page](.www.linkedin.com/in/jake-thorpe-44774324a/).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Jacob Thorpe's Portfolio
+# *Jacob Thorpe's Portfolio*
 Hello! Thank you for visiting my portfolio page!
 
 
