@@ -6,55 +6,11 @@ layout: default
 
 <a href="https://www.linkedin.com/in/jake-thorpe-44774324a/">Jacob's LinkedIn Profile</a>
 
-# *Jacob Thorpe's Portfolio*
+
+<iframe frameborder="0" src="https://itch.io/embed/1700304" width="552" height="167"><a href="https://jt999.itch.io/village-rouge">Village Rouge by jt999</a></iframe>
+
 Hello! Thank you for visiting my portfolio page!
 
-
-## Header 2
-
-
-
-### Header 3
-
-
-
-#### Header 4
-
-
-
-##### Header 5
-
-
-
-###### Header 6
-
-
-
-### There's a horizontal rule below this.
-
-
-
-### Here is an unordered list:
-
-
-
-### And an ordered list:
-
-
-
-### And a nested list:
-
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+Please visit my github to view projects completed. 
 
 
